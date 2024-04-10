@@ -3,5 +3,9 @@
 "clear G2",
 "clear B7",
 "clear G7",
-"clear A1"]
+"clear A1",
+"flag A3",
+"flag B4",
+"clear A4",
+"clear B5"]
 }
